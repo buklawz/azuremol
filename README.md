@@ -1,0 +1,2 @@
+# azuremol
+learn azure
